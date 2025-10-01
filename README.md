@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About me :scream:
+About me :smiley:
 
 My name is Henrique dos Santos Zambiazi from Brazil (🇧🇷). I am an IT student and I am looking for a future in this area, mainly in software issues.
 
