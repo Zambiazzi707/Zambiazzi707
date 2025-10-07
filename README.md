@@ -9,7 +9,7 @@ In my free time I like to play video games (🎮), play football (⚽), I love l
 
 Would you like to find me?
 
-[![Instagram](<img width="100" height="100" alt="Instagram Badge PNG - Imgur" src="https://instagram.com.br/henriquezx710" />
+[![Instagram](https://i.imgur.com/piP9KMw.png)](https://instagram.com.br/henriquezx710)
 <!--
 **Zambiazzi707/Zambiazzi707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
