@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About me :smiley:
+About me :smiley::skull::mage_man:
 
 My name is Henrique dos Santos Zambiazi from Brazil (🇧🇷). I am an IT student and I am looking for a future in this area, mainly in software issues.
 
@@ -10,8 +10,7 @@ In my free time I like to play video games (🎮), play football (⚽), I love l
 Would you like to find me?
 
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/henriquezx710)](https://instagram.com/henriquezx710)
-
+[![Siga no Instagram](https://i.imgur.com/example-badge-link.png)](https://instagram.com/henriquezx710))
 <!--
 **Zambiazzi707/Zambiazzi707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
