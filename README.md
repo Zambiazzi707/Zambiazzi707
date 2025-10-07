@@ -10,7 +10,7 @@ In my free time I like to play video games (🎮), play football (⚽), I love l
 Would you like to find me?
 
 <a href="https://instagram.com.br/henriquezx710">
-    <img src="https://i.imgur.com/piP9KMw.png" alt="Instagram" width="200" height="200"/>
+    <img src="https://i.imgur.com/piP9KMw.png" alt="Instagram" width="50" height="50"/>
 </a>
 <!--
 **Zambiazzi707/Zambiazzi707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
